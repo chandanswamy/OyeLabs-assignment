@@ -1,0 +1,14 @@
+{
+    "name": "todays-day",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "4.17.1",
+        "request": "^2.88.2",
+        "sqlite": "^4.2.1",
+        "sqlite3": "^5.1.6"
+    }
+}
